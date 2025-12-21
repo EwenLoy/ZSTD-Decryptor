@@ -1,7 +1,13 @@
+
+<div align="center">
+  
 # 🔐 ZSTD-Decryptor 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/EwenLoy/ZSTD-Decryptor)
 ![GitHub downloads](https://img.shields.io/github/downloads/EwenLoy/ZSTD-Decryptor/total)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
+
+<div align="left">
+  
 **ZSTD-Decryptor** — это графическая программа для **расшифровки файлов, сжатых алгоритмом Zstandard (ZSTD)**.  
 Программа работает **сразу со всей папкой**, автоматически находит ZSTD-файлы и **перезаписывает их в исходном виде**.
 
